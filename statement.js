@@ -1,7 +1,7 @@
 /*
  * @Author: ChZheng
  * @Date: 2024-02-19 11:14:10
- * @LastEditTime: 2024-02-21 14:13:23
+ * @LastEditTime: 2024-02-21 15:26:23
  * @LastEditors: ChZheng
  * @Description:
  * @FilePath: /chonggou/statement.js
@@ -54,3 +54,4 @@ function usd(aNumber) {
         minimumFractionDigits: 2,
     }).format(aNumber / 100);
 }
+
