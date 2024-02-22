@@ -1,10 +1,10 @@
 /*
  * @Author: ChZheng
  * @Date: 2024-02-19 11:14:10
- * @LastEditTime: 2024-02-21 15:26:23
+ * @LastEditTime: 2024-02-22 06:46:59
  * @LastEditors: ChZheng
  * @Description:
- * @FilePath: /chonggou/statement.js
+ * @FilePath: /chonggou/第一章/statement.js
  */
 import createStatementData from "./createStatementData.js";
 function statement(invoice, plays) {
